@@ -1,0 +1,5 @@
+idea_ref,market,rejection_category,rejection_reason,rejected_at
+idea_h_001,CN,brand,"Carton serves dual purpose as in-store display; tray substitution rejected by Brand_C marketing",2025-09-12
+idea_h_002,VN,technical,"Cap diameter change requires new filling-line tooling; not in 2026 capex plan",2025-11-04
+idea_h_003,CN,commercial,"Cannot reduce gauge below 0.235mm on Brand_C SKUs (consumer perception of premium)",2024-06-18
+idea_h_004,MY,brand,"Colour change on glass bottle rejected — Muslim market constraints (Brand_B premium variant)",2025-02-22

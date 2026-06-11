@@ -1,0 +1,1 @@
+from .app_insights import configure_observability

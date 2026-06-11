@@ -1,0 +1,16 @@
+[
+  {
+    "rule_id":"R_001","market":"CN","category":"labeling",
+    "constraint":"Label wort concentration in degrees Plato, not ABV percentage",
+    "rationale":"Chinese regulation labels alcoholic strength by wort, not finished-product ABV. Commercial team rejects ideas that compare to ABV-labelled markets without conversion.",
+    "captured_by":"SME_CN_02","captured_at":"2026-03-12","valid_from":"2026-03-12","valid_to":null,
+    "source_conversation_id":"thread_CN_0334","status":"active"
+  },
+  {
+    "rule_id":"R_002","market":"CN","category":"packaging",
+    "constraint":"330ml carton on Brand_C SKUs cannot be substituted with shrink-tray packaging",
+    "rationale":"Carton serves dual purpose: secondary packaging plus in-store promotional display. Brand_C marketing rejects tray substitutions categorically.",
+    "captured_by":"SME_CN_05","captured_at":"2026-02-04","valid_from":"2026-02-04","valid_to":"2026-12-31",
+    "source_conversation_id":"thread_CN_0298","status":"active"
+  }
+]

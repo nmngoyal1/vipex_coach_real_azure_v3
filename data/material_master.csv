@@ -1,0 +1,7 @@
+sku_code,market,brand,packaging_component,gauge_mm,weight_g,unit_cost_dkk,supplier_anon,currency,annual_units
+SKU_VN_3301,VN,Brand_A,can_330ml,0.250,12.4,0.412,Supplier_A1,DKK,3200000
+SKU_VN_3302,VN,Brand_A,can_330ml,0.250,12.4,0.412,Supplier_A1,DKK,3100000
+SKU_CN_3301,CN,Brand_A,can_330ml,0.235,11.8,0.398,Supplier_C1,DKK,8000000
+SKU_CN_5001,CN,Brand_B,bottle_500ml,,145.0,0.987,Supplier_C2,DKK,2400000
+SKU_VN_5001,VN,Brand_B,bottle_500ml,,138.0,0.961,Supplier_A2,DKK,1800000
+SKU_CN_3302,CN,Brand_C,can_330ml,0.235,11.8,0.398,Supplier_C1,DKK,7600000

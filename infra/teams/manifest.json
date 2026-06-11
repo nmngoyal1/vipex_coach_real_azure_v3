@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.16",
+  "version": "1.0.0",
+  "id": "REPLACE_WITH_BOT_APP_ID",
+  "packageName": "com.carlsberg.vipexcoach",
+  "developer": {
+    "name": "VIPEX Coach",
+    "websiteUrl": "https://example.com",
+    "privacyUrl": "https://example.com/privacy",
+    "termsOfUseUrl": "https://example.com/terms"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "VIPEX Coach",
+    "full": "VIPEX Coach Packaging Value Engineering Assistant"
+  },
+  "description": {
+    "short": "AI assistant for packaging cost-saving ideas.",
+    "full": "VIPEX Coach ingests workshop ideas, cleans and deduplicates them, estimates savings bands, scores feasibility, applies market memory, and generates implementation-ready one-pagers."
+  },
+  "accentColor": "#004D40",
+  "bots": [
+    {
+      "botId": "REPLACE_WITH_BOT_APP_ID",
+      "scopes": ["personal", "team", "groupchat"],
+      "supportsFiles": true,
+      "isNotificationOnly": false
+    }
+  ],
+  "permissions": ["identity", "messageTeamMembers"],
+  "validDomains": ["REPLACE_WITH_CONTAINER_APP_DOMAIN"]
+}
