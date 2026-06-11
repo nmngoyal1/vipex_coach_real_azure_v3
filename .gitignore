@@ -8,3 +8,4 @@ __pycache__/
 *.zip
 webapp-logs/
 .DS_Store
+outputs/
